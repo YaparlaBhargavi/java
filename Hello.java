@@ -1,7 +1,5 @@
-class Hello
-{
-public static void main(string args[])
-{
-System.out.println("HELLO WORLD");
-}
+class Hello {
+    public static void main(String[] args) {
+        System.out.println("HELLO WORLD");
+    }
 }
